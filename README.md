@@ -1,2 +1,21 @@
-# Python_Projects
-This repository contains two Python games:  Snake, Water, Gun Game: Play against the computer with randomized choices. Perfect Guess Game: Guess a randomly generated number with hints for higher or lower. Great for practicing Python basics like conditionals, loops, and random number generation.
+Python Games Project
+This repository contains two fun and interactive Python games to practice basic programming concepts such as conditionals, loops, and random number generation.
+
+
+**Project 1:** Snake, Water, Gun Game
+This is a Python version of the classic childhood game: Snake, Water, Gun. The rules are simple:
+
+Snake drinks Water, Gun kills Snake, and Water douses Gun.
+The player plays against the computer, which makes random choices.
+The game continues until the user decides to quit.
+Features:
+User vs Computer gameplay
+Randomized choices for the computer
+Keeps track of wins, losses, and draws
+
+
+Requirements:
+Python 3.x
+
+Contributing:
+Feel free to contribute by forking this repository, making changes, and submitting a pull request.
